@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<note>
+<date id="12345" name="abcd">
+<day>12</day>
+
+<year>2002</year>
+</date>
+
+<to>Tove</to>
+
+<from>Jani
+<month>11</month>
+</from>
+
+<heading>Reminder</heading>
+
+<body>Don't forget me this weekend!</body>
+</note>
